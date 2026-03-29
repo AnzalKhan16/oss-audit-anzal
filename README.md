@@ -2,6 +2,7 @@
 
 ## Student Details
 Name: Anzal Khan  
+Registration No.- 24BEY10011
 Course: Open Source Software  
 Software Chosen: Python  
 
