@@ -58,4 +58,4 @@ chmod +x script5.sh
 ---
 
 ## Conclusion
-This project helped in understanding open-source concepts and Linux shell scripting.
+This project helped in understanding open-source concepts and Linux shell scripting
